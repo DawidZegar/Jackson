@@ -7,3 +7,5 @@
 
 **3. Do czego służy transient przy serializacji?**
 > - transient oznacza, że dane pole nie będzie zapisywane podczas serializacji (zostanie pominięte).
+
+![alt text](https://www.discogs.com/artist/1178339-Jason-Derulo?srsltid=AfmBOopZNzlZhELjm0-eoNUBdOex4U2YeKdVYxPuxYieqYI5lrf00-LE "Logo Title Text 1")
